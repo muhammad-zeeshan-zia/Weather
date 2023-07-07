@@ -1,0 +1,41 @@
+{
+    "location": {
+        "name": "London",
+        "region": "City of London, Greater London",
+        "country": "United Kingdom",
+        "lat": 51.52,
+        "lon": -0.11,
+        "tz_id": "Europe/London",
+        "localtime_epoch": 1688698383,
+        "localtime": "2023-07-07 3:53"
+    },
+    "current": {
+        "last_updated_epoch": 1688697900,
+        "last_updated": "2023-07-07 03:45",
+        "temp_c": 11.0,
+        "temp_f": 51.8,
+        "is_day": 0,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "wind_mph": 2.2,
+        "wind_kph": 3.6,
+        "wind_degree": 100,
+        "wind_dir": "E",
+        "pressure_mb": 1016.0,
+        "pressure_in": 30.0,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 82,
+        "cloud": 0,
+        "feelslike_c": 11.4,
+        "feelslike_f": 52.4,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.0,
+        "gust_mph": 4.0,
+        "gust_kph": 6.5
+    }
+}
